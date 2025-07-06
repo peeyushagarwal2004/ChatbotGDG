@@ -1,0 +1,1 @@
+You are given an n x n matrix of integers. Find a path from the top-left to the bottom-right corner such that the product of the numbers along the path has the least number of trailing zeros. You can only move right or down.

@@ -1,0 +1,1 @@
+Given a string consisting of only 'a' and 'b', find the length of the longest substring that contains at most one 'a'.

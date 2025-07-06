@@ -1,0 +1,1 @@
+Use a sliding window to keep track of the number of 'a's in the current substring. When there are more than one 'a', move the left end of the window forward.

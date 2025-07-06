@@ -1,0 +1,3 @@
+Name: Theatre Square
+Tags: math, geometry
+Difficulty: easy

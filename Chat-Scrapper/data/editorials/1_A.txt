@@ -1,0 +1,1 @@
+To cover the n x m square with a x a tiles, divide n by a and m by a, rounding up each time. The answer is ceil(n/a) * ceil(m/a).

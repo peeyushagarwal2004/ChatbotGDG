@@ -1,0 +1,1 @@
+You are given a rectangular theatre square with a side of n meters and m meters. You want to pave the square with square tiles of size a x a. What is the least number of tiles needed to pave the square?

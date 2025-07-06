@@ -1,0 +1,1 @@
+For each cell, keep track of the minimum number of trailing zeros you can get to that cell from the top-left. Use dynamic programming, considering both right and down moves.
